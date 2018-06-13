@@ -1,0 +1,12 @@
+p{
+    font-family: 'Raleway', sans-serif;
+}
+.content-container {
+    width: 800px;
+    margin: auto;
+    text-align: justify;
+    text-indent: 30px;
+}
+h1{
+    text-align: center;
+}
